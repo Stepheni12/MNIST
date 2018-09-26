@@ -1,6 +1,7 @@
 # MNIST
 
 Basic Tensorflow Neural Network using the MNIST dataset
+
 Accuracy: 0.97757
 
 The training data I used is from the Digit Recognizer Kaggle competition. Right now I'm just using a
